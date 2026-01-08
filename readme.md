@@ -1,8 +1,8 @@
 # EduFlow
 
-[E](dev-eduflow.ru)
-[E](dev-eduflow.ru)
-[E](dev-eduflow.ru)
+[E](https://dev-eduflow.ru)
+[E](https://dev-eduflow.ru)
+[E](https://dev-eduflow.ru)
 
 EduFlow - сервис визуализации школьного расписания на основе данных системы Nikasoft.
 
